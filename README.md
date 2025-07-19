@@ -13,11 +13,11 @@
 ---
 
 ### 🧠 Road to Mastery  
-- ✅ Ethical hacking scripts & payloads  
-- ✅ AI Chatbots with fine-tuned LLMs  
-- 🔄 Deploying AI on cloud infrastructure  
-- 🔒 Phishing detection & malware analysis  
-- 🧪 Currently building: **AI-Phisher-Detector**
+- Designing & deploying AI/ML models for real-world use  
+- Developing ethical hacking tools & automation scripts  
+- Researching Generative AI, Transformers & LLMs  
+- Exploring cybersecurity threats & defenses  
+- Integrating AI with cloud and web systems
 
 ---
 
@@ -37,4 +37,3 @@
 ---
 
 🧠 *Learning, Building, Breaking, Rebuilding... still cravin'.*
-
