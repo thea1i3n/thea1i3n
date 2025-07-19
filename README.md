@@ -41,3 +41,7 @@
 ---
 
 🧠 *Learning, Building, Breaking, Rebuilding... still cravin'.*
+---
+
+![Renil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thea1i3n&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thea1i3n&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
