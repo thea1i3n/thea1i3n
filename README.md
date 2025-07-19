@@ -1,61 +1,40 @@
-<h1 align="center">Hey there, I'm <span style="color:#38bdf8">a1i3n</span> 👽</h1>
-
 <p align="center">
-  <b>Tech enthusiast | Ethical Hacker | Future AI Architect</b><br>
-  <i>Cravin' code, chaos & consciousness.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+Renil+aka+thea1i3n;AI+dev+%7C+Hacker+%7C+Dreamchaser" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently mastering AI/ML, building smart things that think.
-- ⚡️ Ethical hacker with a knack for creative tech.
-- 🔬 Exploring Machine Learning • Deep Learning • Cloud • GenAI.
-- 🧩 Love merging logic with design, code with soul.
-- 🛸 Founder of CRAVYN — fashion meets fire.
+### 👽 About Me  
+- 🧠 AI/ML enthusiast & ethical hacker  
+- 👨‍💻 Building things that learn, speak & protect  
+- 🧬 Cravin’ to crack what others can’t  
+- 🎯 Focused on mastering GenAI, LLMs, CyberSec & Applied Intelligence
 
 ---
 
-### 🧰 Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### 🧠 Road to Mastery  
+- ✅ Ethical hacking scripts & payloads  
+- ✅ AI Chatbots with fine-tuned LLMs  
+- 🔄 Deploying AI on cloud infrastructure  
+- 🔒 Phishing detection & malware analysis  
+- 🧪 Currently building: **AI-Phisher-Detector**
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thea1i3n&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thea1i3n&layout=compact&theme=tokyonight" width="45%"/>
-</p>
+### ⚙️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/@renilll._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renilll._)  
-[![LinkedIn](https://img.shields.io/badge/Renil%20Mammen%20Biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renil-mammen-biju-a8a12030b)
+### 🌐 Connect With Me  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/renilll._/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renil-mammen-biju-a8a12030b)
 
 ---
 
-> ⚠️ Everything you see here is just the beginning.  
-> Still learning. Still building. Still cravin’ more.
+🧠 *Learning, Building, Breaking, Rebuilding... still cravin'.*
 
-<!--
-**thea1i3n/thea1i3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
